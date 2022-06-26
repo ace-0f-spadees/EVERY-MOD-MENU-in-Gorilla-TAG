@@ -8,3 +8,4 @@ I have put in suggested mod menu's that I think you should try in a folder for y
 
 Just put in a hopefully working zoloz admin menu. Probably wont work, if it does let me know on my discord if you can.
 My discord is JoePapi#0770
+I also put in another mod menu that I haven't tested
