@@ -6,6 +6,5 @@ Then, just look through all of the mod menu's and when you find one you want. Dr
 
 I have put in suggested mod menu's that I think you should try in a folder for you!
 
-Just put in a hopefully working zoloz admin menu. Probably wont work, if it does let me know on my discord if you can.
-My discord is JoePapi#0770
-I also put in another mod menu that I haven't tested
+Just got Displayy Mod menu V5, I will put it in releases and above this readme area. It has kick gun, break gamemode, lag server/break rig, and all of that jazz so have fun!
+Just remember lag server/breakrig can get you banned instantly even in a private!
