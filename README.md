@@ -8,3 +8,5 @@ I have put in suggested mod menu's that I think you should try in a folder for y
 
 Just got Displayy Mod menu V5, I will put it in releases and above this readme area. It has kick gun, break gamemode, lag server/break rig, and all of that jazz so have fun!
 Just remember lag server/breakrig can get you banned instantly even in a private!
+
+All of these mod menu's don't come from just a ton of different servers. It came from my friends server, so if you want to show some good $h!t then just join: https://discord.gg/EfepXR3XDq
